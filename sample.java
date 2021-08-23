@@ -1,6 +1,6 @@
 class Simple{
 public static void main(String args[]) throws InterruptedException{
 Thread.sleep(10000);
-System.out.println("Hello updated1 Java");
+System.out.println("Hello updated branch Java");
 }
 }
